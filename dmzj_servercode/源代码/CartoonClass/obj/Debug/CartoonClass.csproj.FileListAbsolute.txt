@@ -1,0 +1,15 @@
+F:\项目\动漫之家接口\新建文件夹\CartoonClass\bin\Debug\CartoonClass.dll
+F:\项目\动漫之家接口\新建文件夹\CartoonClass\bin\Debug\CartoonClass.pdb
+F:\项目\动漫之家接口\新建文件夹\CartoonClass\obj\Debug\CartoonClass.csprojResolveAssemblyReference.cache
+F:\项目\动漫之家接口\新建文件夹\CartoonClass\obj\Debug\CartoonClass.dll
+F:\项目\动漫之家接口\新建文件夹\CartoonClass\obj\Debug\CartoonClass.pdb
+F:\项目\动漫之家接口\新建文件夹\web服务端\CartoonClass\bin\Debug\CartoonClass.dll
+F:\项目\动漫之家接口\新建文件夹\web服务端\CartoonClass\bin\Debug\CartoonClass.pdb
+F:\项目\动漫之家接口\新建文件夹\web服务端\CartoonClass\obj\Debug\CartoonClass.csprojResolveAssemblyReference.cache
+F:\项目\动漫之家接口\新建文件夹\web服务端\CartoonClass\obj\Debug\CartoonClass.dll
+F:\项目\动漫之家接口\新建文件夹\web服务端\CartoonClass\obj\Debug\CartoonClass.pdb
+C:\Users\gun\Desktop\code\CartoonHouse\dmzj_servercode\源代码\CartoonClass\bin\Debug\CartoonClass.dll
+C:\Users\gun\Desktop\code\CartoonHouse\dmzj_servercode\源代码\CartoonClass\bin\Debug\CartoonClass.pdb
+C:\Users\gun\Desktop\code\CartoonHouse\dmzj_servercode\源代码\CartoonClass\obj\Debug\CartoonClass.csprojResolveAssemblyReference.cache
+C:\Users\gun\Desktop\code\CartoonHouse\dmzj_servercode\源代码\CartoonClass\obj\Debug\CartoonClass.dll
+C:\Users\gun\Desktop\code\CartoonHouse\dmzj_servercode\源代码\CartoonClass\obj\Debug\CartoonClass.pdb
